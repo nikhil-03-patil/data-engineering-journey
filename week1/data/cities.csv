@@ -1,0 +1,13 @@
+city,country,category,rating,cost_per_day
+Paris,France,Culture,4.7,150
+Tokyo,Japan,Food,4.8,170
+Rome,Italy,History,4.5,120
+Mumbai,India,Food,4.1,30
+Kyoto,Japan,Culture,4.6,160
+Milan,Italy,Fashion,4.2,130
+Delhi,India,History,3.9,25
+Naples,Italy,Food,4.0,90
+Barcelona,Spain,Culture,4.6,110
+Madrid,Spain,Food,4.3,100
+Osaka,Japan,Food,4.7,140
+Florence,Italy,History,4.4,115
